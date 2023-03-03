@@ -1,0 +1,34 @@
+Major Topics
+
+• What is Node js
+
+• Node Js Event
+
+• How it works
+
+• Middleware
+
+• Install and run
+
+• Major Package
+
+• Make Basic API
+
+• Connect with DB
+
+• use with express.js
+
+• Make Major API
+
+• UI with Node
+      ☐ Ul event
+      ☐ Forms
+      ☐ WebPages etc
+
+• API validation
+
+• Interview Questions.
+
+Much More...
+
+

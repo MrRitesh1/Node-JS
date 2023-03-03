@@ -1,0 +1,15 @@
+JavaScript & Node are the Same?
+
+• JavaScript and Node js Code Syntax is Same
+
+• If you know JavaScript you can easily understand Node
+
+• But both are not exactly the Same
+
+• You can not connect Javascript to DS
+
+• Node can connect with DB
+
+• Node js run on the server side
+
+• JavaScript is run on the browser

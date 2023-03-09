@@ -4,11 +4,11 @@ const insert = async () => {
     const db = await dataBaseConnect();
     // console.log(db);
 
-    const result = await db.insert(
+    const result = await db.insertMany(
         [
             { name: 'Doremon', age: 24 },
-            { name: 'Nobita', age: 23 },
-            { name: 'Jery', age: 22 }
+            { name: 'Nobita', age: 18 },
+            { name: 'Jery', age: 20 }
         ]
     );
     console.log(result);

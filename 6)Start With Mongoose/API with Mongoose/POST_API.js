@@ -9,7 +9,7 @@ app.post("/create", async (req, resp) => {
     let data = new delars(req.body);
     let result = await data.save();
     console.log(req.body);
-    resp.send(result)
+    resp.send(result);
     resp.send("Done");
 });
 
